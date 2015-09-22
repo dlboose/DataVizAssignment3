@@ -107,7 +107,7 @@ barplot(bartable, legend=levels(unique(simData$FacVar2))) ## stacked
 barplot(prop.table(bartable,2)*100, legend=levels(unique(simData$FacVar2))) ## stacked 100%
 ```
 
-The mosaic plot uses r
+The mosaic plot uses rectangles 
 #### Two Variables: One Factor and One Numeric
 ```{r echo = T, results="asis", warning=FALSE,message=FALSE}
 ## Box plots for the numeric var over the levels of the factor var

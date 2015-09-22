@@ -4,10 +4,10 @@ title: 'Assignment 3: Summary of *Effectively Communicating Numbers: Selecting t
 author: "David Boose"
 date: "September 21, 2015"
 output:
-  html_document:
-    toc: yes
   pdf_document:
     number_sections: yes
+  html_document:
+    toc: yes
 ---
 Stephen Few, a principal at [Perceptual Edge](http://www.perceptualedge.com), a business consulting company, prepared a [white paper][Few] for the software company [ProClarity](http://www.proclarity.com) on the effective display of data in graphical format. ProClarity software is designed to make graphing data easy, but as with any such software, it will do whatever the user asks it to do. Thus, it is just as easy to make a useless or misleading graph as it is to make a beautiful and effective one. Producing the latter instead of the former requires some  some knowldege, thought, and careful decision-making on the part of the graph designer, and it is those things that Few's white paper is designed to support. The paper lays out six steps in the process of creating an effective visual communication of data, and each step represents a set of decisions that need to be made. Following the steps and thinking carefully about the answers to the questions can make it much more likely that your graph will say what you want it to say, and your audience will understand its message clearly.
 
